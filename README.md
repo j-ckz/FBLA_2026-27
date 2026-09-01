@@ -1,7 +1,7 @@
 # FBLA_2026-27
 
-(website)[https://j-ckz.github.io/FBLA_2026-27/]
-(fbla guidelines)[https://greektrack-fbla-public.s3.amazonaws.com/files/1/High%20School%20Competitive%20Events%20Resources/Individual%20Guidelines/Presentation%20Events/Coding-and-Programming.pdf]
+[website](https://j-ckz.github.io/FBLA_2026-27/)
+[fbla guidelines](https://greektrack-fbla-public.s3.amazonaws.com/files/1/High%20School%20Competitive%20Events%20Resources/Individual%20Guidelines/Presentation%20Events/Coding-and-Programming.pdf)
 
 remember this example index.html as it is, DO NOT MOVE or MODIFY the <script> tag on the bottom of the page.
 
