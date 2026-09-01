@@ -20,3 +20,6 @@ remember this example index.html as it is, DO NOT MOVE or MODIFY the <script> ta
     </body>
 </html>
 ```
+
+<img src="https://giffiles.alphacoders.com/157/15786.gif" alt=":c">
+###### **hi :3**
