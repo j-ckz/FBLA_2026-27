@@ -22,4 +22,4 @@ remember this example index.html as it is, DO NOT MOVE or MODIFY the <script> ta
 ```
 
 <img src="https://giffiles.alphacoders.com/157/15786.gif" alt=":c">
-###### **hi :3**
+hi :3
