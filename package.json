@@ -1,0 +1,20 @@
+{
+  "name": "FBLA_2026-27",
+  "version": "1.0.0",
+  "description": "N/A",
+  "scripts": {
+    "build": "npm install typescript && rm -rf dist && mkdir dist && cd src && cp -r --parents $(find . -type f -not -name '*ts' ) ../dist && cd .. && npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-ckz/FBLA_2026-27"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/j-ckz/FBLA_2026-27/issues"
+  },
+  "homepage": "",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
