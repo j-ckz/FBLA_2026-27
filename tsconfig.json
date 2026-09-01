@@ -7,10 +7,11 @@
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
-    // "module": "nodenext",
+    "module": "es2022",
+    "moduleResolution": "bundler",
 
     "target": "es2022",
-    "types": [],
+    // "types": ["node"],
     // For nodejs:
     // "lib": ["esnext"],
     // "types": ["node"],
